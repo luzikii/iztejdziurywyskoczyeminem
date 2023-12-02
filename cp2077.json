@@ -199,5 +199,10 @@
       "YELLOW_900": "#ff003c",
       "WHITE_500": "#c7c7c7"
    },
+        "background": {
+        "blur": 0.1,
+        "url": "https://raw.githubusercontent.com/olobia/themes/main/image%20(2).png",
+        "alpha": 1.0
+    },
     "spec": 2
 }
