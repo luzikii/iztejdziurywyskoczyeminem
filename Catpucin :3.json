@@ -1,0 +1,110 @@
+{
+    "name": "Catppuccin Mocha",
+    "description": "Soothing pastel theme for the high-spirited!",
+    "authors": [
+      {
+        "name": "Catppuccin"
+      }
+    ],
+    "semanticColors": {
+      "BACKGROUND_ACCENT": [
+      "#f38ba8"
+      ],
+      "BACKGROUND_MENTIONED": [
+      "#313244"
+      ],   
+      "BACKGROUND_MENTIONED_HOVER": [   
+      "#6c7086"
+      ],
+      "BACKGROUND_MESSAGE_AUTOMOD": [    
+      "#f23f430d"
+      ],
+      "BACKGROUND_MESSAGE_AUTOMOD_HOVER": [     
+      "#f23f431a"
+      ],
+      "CHANNEL_ICON": [
+      "#cba6f7"
+      ],
+      "CHANNELS_DEFAULT": [
+      "#9399b2"
+      ],
+      "HEADER_PRIMARY": [
+      "#cdd6f4"
+      ],
+      "HEADER_SECONDARY": [
+      "#bac2de"
+      ],
+      "INTERACTIVE_ACTIVE": [
+      "#eba0ac"
+      ],
+      "INTERACTIVE_HOVER": [
+      "#f38ba8"
+      ],
+      "INTERACTIVE_MUTED": [
+      "#585b70"
+      ],
+      "INTERACTIVE_NORMAL": [
+      "#9399b2"
+      ],
+      "MENTION_BACKGROUND": [
+      "#f2cdcd"
+      ],
+      "MENTION_FOREGROUND": [
+      "#eba0ac"
+      ],
+      "TEXT_DANGER": [
+      "#f38ba8"
+      ],
+      "TEXT_LINK": [
+      "#a6e3a1"
+      ],
+      "TEXT_MUTED": [
+      "#a6adc8"
+      ],
+      "TEXT_NORMAL": [
+      "#cdd6f4"
+      ],
+        "TEXT_PRIMARY": [
+            "#cdd6f4"
+        ],
+        "TEXT_SECONDARY": [
+        "#a6adc8"
+        ]
+  },
+    "rawColors": {
+      "BRAND_260": "#f5e0dc",
+      "BRAND_360": "#a6e3a1",
+      "BRAND_500": "#cba6f7",
+      "GREEN_360": "#a6e3a1",
+      "PRIMARY_100": "#cdd6f4",
+      "PRIMARY_300": "#1e1e2e",
+      "PRIMARY_360": "#f2cdcd",
+      "PRIMARY_400": "#b4befe",
+      "PRIMARY_460": "#181825",
+      "PRIMARY_500": "#cdd6f4",
+      "BRAND_560": "#6c7086",
+      "PRIMARY_600": "#1e1e2e",
+      "PRIMARY_645": "45475a",
+      "PRIMARY_630": "#1e1e2e",
+      "PRIMARY_660": "#11111b",
+      "PRIMARY_700": "#11111b",
+      "PRIMARY_800": "#181825",
+      "RED_400": "#fab387",
+      "WHITE_500": "#1e1e2e",
+      "YELLOW_300": "#f9e2af"
+    },
+    "plus":{
+       "version":"0",
+       "iconpack":"rosiecord-plumpy",
+       "icons":{
+          "ic_new_pins":"#ed8796",
+          "StatusStreaming": "#c6a0f6",
+          "StatusMobileOnline": "#a6da95",
+          "StatusIdle": "#f5a97f",
+          "StatusDND": "#ed8796",
+          "StatusOffline": "#363a4f",
+          "StatusOnline": "#a6da95"
+ }
+},
+    "spec": 2
+}
